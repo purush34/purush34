@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **SSR group project**
+- 🔭 I’m currently working on **Amrita Neonet (healthcare project)**
 
 - 🌱 I’m currently learning **Competetive programming**
 
