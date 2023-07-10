@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **purush3190@gmail.com**
 
+- 📄 Take a look at my resume <a href="https://flowcv.com/resume/9ctbg6akbp" > <b> FlowCV </b></a>
+
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
